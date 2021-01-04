@@ -8,6 +8,11 @@ function. Then operators are applied to perform add/ subtract operations on the 
 <br>
 <br>
 To run the program a cmake version 2.8.12 or higher is required.<br><br>
-To run: cmake ../ ; make ; /.Assignment1_bin
-<br><br>
-The output file can be renamed in CMakeLists.txt.
+To run: 
+```
+cmake ../ 
+make 
+./Assignment1_bin
+```
+The output file name can be changed in CMakeLists.txt
+
